@@ -8,7 +8,7 @@ advanced statistics, player biodata, and match statistics across five NBA season
 test cross-league robustness. 
 
 > **Note on the thesis document:** The full dissertation is available in
-> the Docs folder as an anonymized PDF. Personal identifiers (name, student ID,
+> the [thesis document](./docs/thesis.pdf) as an anonymized PDF. Personal identifiers (supervisor's names, student ID,
 > institutional details) have been removed for public release.
 
 ---
