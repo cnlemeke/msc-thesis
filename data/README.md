@@ -1,6 +1,6 @@
 # Data
 
-Everything here is public. Basketball Reference and NBA.com own the underlying data and their terms of use apply to it.
+The dataset used for this work is public. Basketball Reference and NBA.com own the underlying data and their terms of use apply to it.
 
 ## What the pipeline needs
 
