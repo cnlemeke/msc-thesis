@@ -1,6 +1,6 @@
 # Predicting NBA Player Performance Using Machine Learning Methods
 
-MSc Dissertation in Applied Data Science, University of Sunderland, January 2025.
+MSc Dissertation in Applied Data Science, Department of Computer, University of Sunderland, January 2025.
 
 The study predicts two advanced basketball metrics for NBA players, Player Efficiency Rating (PER) and Win Shares (WS). It employed historical box-score and
 advanced statistics, player biodata, and match statistics across five NBA seasons
